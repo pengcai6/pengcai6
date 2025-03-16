@@ -1,14 +1,14 @@
 ## 一个普通在读大学生，正在学习编程与算法
 <p align="center">
-  <a href="https://cai094.top">
+  <a href="https://8888-8888.tech">
     <img src="kita-ikuyo-rap.webp" alt="pengcai6">
   </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://cai094.top">pengcai6</a>!</h1>
+<h1 align="center">Hi, I'm <a href="https://8888-8888.tech">pengcai6</a>!</h1>
 <p align="center">
-  <a href="https://cai094.top">
-    <img src="https://image.cai094.top/file/df359e61834fee97edc2b.jpg" alt=pengcai6">
+  <a href="https://8888-8888.tech">
+    <img src="https://image.8888-8888.tech/file/df359e61834fee97edc2b.jpg" alt=pengcai6">
   </a>
 </p>
 <h3 align="center">Welcome to my GitHub profile :3</h3>
@@ -17,7 +17,7 @@
   <a href="https://github.com/pengcai6"><img src="https://github-readme-stats.vercel.app/api?username=pengcai6&hide_border=true&show_icons=true" alt="pengcai6's github stats"></a>
 </p>
 <p align="center">
-  <a href="https://cai094.top">
+  <a href="https://8888-8888.tech">
     <img src="https://github-profile-trophy.vercel.app/?username=pengcai6" alt="pengcai6">
   </a>
 </p>

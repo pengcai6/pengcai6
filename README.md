@@ -1,10 +1,4 @@
 ## 一个普通在读大学生，正在学习编程与算法
-<p align="center">
-  <a href="https://8888-8888.tech">
-    <img src="kita-ikuyo-rap.webp" alt="pengcai6">
-  </a>
-</p>
-
 <h1 align="center">Hi, I'm <a href="https://8888-8888.tech">pengcai6</a>!</h1>
 <p align="center">
   <a href="https://8888-8888.tech">

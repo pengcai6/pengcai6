@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=41B883&height=200&section=header&text=Pengcai&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Test%20Engineer%20%26%20Developer&descAlignY=55&descAlign=62" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=41B883&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Pengcai!;Test+Engineer;Developer" alt="Typing SVG" />
+</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=41B883&center=true&vCenter=true&width=500&lines=Quality+is+not+an+act%2C+it+is+a+habit;Automate+everything+that+can+be+automated;Breaking+software+professionally;Test+early%2C+test+often%2C+test+automatically" alt="Typing SVG" />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/API_Testing-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> About Me
+## 👋 About Me
 
 ```python
 class TestEngineer:
@@ -41,34 +41,34 @@ me.say_hi()
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="60" />
+        <h2>🔬</h2>
         <p><strong>Test Automation</strong></p>
         <p>Pytest, Selenium, JUnit, TestNG, Allure</p>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="60" />
+        <h2>🔧</h2>
         <p><strong>API Testing</strong></p>
         <p>Postman, RestAssured, Knife4j</p>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="Performance" width="60" />
+        <h2>⚡</h2>
         <p><strong>Performance</strong></p>
         <p>JMeter, Locust, Charles</p>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="CI/CD" width="60" />
+        <h2>⚙️</h2>
         <p><strong>CI/CD</strong></p>
         <p>Jenkins, GitHub Actions</p>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" alt="Database" width="60" />
+        <h2>🗃️</h2>
         <p><strong>Database</strong></p>
         <p>MySQL, Redis, MongoDB</p>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Teamwork" width="60" />
+        <h2>🔗</h2>
         <p><strong>Collaboration</strong></p>
         <p>Git, JIRA, Confluence</p>
       </td>
@@ -126,14 +126,17 @@ me.say_hi()
   <img src="https://komarev.com/ghpvc/?username=pengcai6&label=Visitors&color=41B883&style=flat-square" alt="visitors" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pengcai6/pengcai6/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pengcai6/pengcai6/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=41B883&height=120&section=footer" />
+  <details>
+    <summary><b>More About Me</b></summary>
+    <br>
+    <p>
+      I'm passionate about improving software quality through automation and efficient testing methodologies. My experience spans from UI testing to API testing and performance optimization.
+    </p>
+    <p>
+      When I'm not breaking code, I enjoy solving algorithm problems and exploring new technologies. I believe in the power of continuous learning and sharing knowledge with the community.
+    </p>
+  </details>
 </div>

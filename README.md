@@ -17,7 +17,7 @@
 </div>
 
 ## 👋 About Me
-
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/pengcai6-g2-contributor.json)](https://github.com/antvis/g2)
 ```python
 class TestEngineer:
     def __init__(self):
